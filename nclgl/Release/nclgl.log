@@ -1,0 +1,21 @@
+﻿  Camera.cpp
+  Frustum.cpp
+  GameTimer.cpp
+  HeightMap.cpp
+  Keyboard.cpp
+  Matrix4.cpp
+  MD5Anim.cpp
+  MD5FileData.cpp
+  MD5Mesh.cpp
+  MD5Node.cpp
+  Mesh.cpp
+  Mouse.cpp
+  OBJMesh.cpp
+  OGLRenderer.cpp
+OGLRenderer.cpp(260): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Plane.cpp
+  Quaternion.cpp
+  SceneNode.cpp
+  Shader.cpp
+  Window.cpp
+  nclgl.vcxproj -> C:\Users\b8062133\graphics\first triangle\CSC8502\Graphics_For_Games\Release\nclgl.lib

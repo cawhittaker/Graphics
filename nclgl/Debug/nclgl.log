@@ -1,0 +1,24 @@
+﻿  Camera.cpp
+  Frustum.cpp
+  GameTimer.cpp
+  HeightMap.cpp
+  Keyboard.cpp
+  Matrix4.cpp
+  MD5Anim.cpp
+  MD5FileData.cpp
+  MD5Mesh.cpp
+  MD5Node.cpp
+  Mesh.cpp
+  Mouse.cpp
+  OBJMesh.cpp
+  OGLRenderer.cpp
+c:\users\b8062133\graphics\nclgl\oglrenderer.cpp(238): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\b8062133\graphics\nclgl\oglrenderer.cpp(261): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ParticleEmitter.cpp
+  Plane.cpp
+  Quaternion.cpp
+  SceneNode.cpp
+  Shader.cpp
+  Window.cpp
+  Generating Code...
+  nclgl.vcxproj -> C:\Users\b8062133\Graphics\Graphics_For_Games\Debug\nclgl.lib
