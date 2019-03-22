@@ -1,0 +1,12 @@
+﻿  Tutorial6.cpp
+  Renderer.cpp
+  CubeRobot.cpp
+  Generating Code...
+Renderer.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+Renderer.obj : warning LNK4049: locally defined symbol ___glewUniform1i imported
+Renderer.obj : warning LNK4049: locally defined symbol ___glewUniform4fv imported
+Renderer.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+Renderer.obj : warning LNK4049: locally defined symbol ___glewUseProgram imported
+glew32.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32.lib(glew.obj)' or at 'C:\Users\b8062133\graphics\first triangle\CSC8502\Graphics_For_Games\Debug\vc120.pdb'; linking object as if no debug info
+  Tutorial6.vcxproj -> C:\Users\b8062133\graphics\first triangle\CSC8502\Graphics_For_Games\Debug\Tutorial 06 - Scene Graph.exe
+  Tutorial6.vcxproj -> C:\Users\b8062133\graphics\first triangle\CSC8502\Graphics_For_Games\Debug\Tutorial 06 - Scene Graph.pdb (Partial PDB)
